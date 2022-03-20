@@ -1,13 +1,13 @@
-### Hi there Here's what I'm working on ..👋
+### Hi there 👋, my name is Derek
+#### Front end development
+![Front end development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm Derek. I primarily focus on front end development. I enjoy learning about creating and designing web sites!
 
-- 🔭 I’m currently working on ... Front end development
-- 🌱 I’m currently learning ... CSS & Javascript
-- 👯 I’m looking to collaborate on ... Building/styling web sites
-- 🤔 I’m looking for help with ... Building projects
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... derekk31@gmail.com
-- 😄 Pronouns: ... He/Him 
-- ⚡ Fun fact: ... I ama former collegiate athlete
--->
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
